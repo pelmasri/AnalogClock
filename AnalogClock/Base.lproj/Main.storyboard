@@ -699,18 +699,45 @@
                                     <constraint firstAttribute="height" constant="400" id="ib1-Gb-pLt"/>
                                 </constraints>
                             </customView>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Jov-E0-kDI">
+                                <rect key="frame" x="298" y="191" width="24" height="17"/>
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="62m-56-6Wg">
+                                    <font key="font" metaFont="system" size="12"/>
+                                    <color key="textColor" name="controlHighlightColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="kNO-B7-xHO">
+                                <rect key="frame" x="322" y="191" width="37" height="17"/>
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="XT7-RT-Qa3">
+                                    <font key="font" metaFont="system"/>
+                                    <color key="textColor" name="controlHighlightColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
                         </subviews>
                         <constraints>
+                            <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="7SY-ig-6h6"/>
+                            <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="GZe-gD-pUj"/>
                             <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="Gl3-Bk-kgW"/>
                             <constraint firstItem="UqA-BJ-fYt" firstAttribute="top" secondItem="m2S-Jp-Qdl" secondAttribute="top" id="H7c-WI-x9u"/>
                             <constraint firstAttribute="trailing" secondItem="UqA-BJ-fYt" secondAttribute="trailing" id="LmL-er-A5O"/>
+                            <constraint firstItem="Jov-E0-kDI" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="Uko-i3-IBQ"/>
+                            <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="VGg-jm-76G"/>
+                            <constraint firstItem="kNO-B7-xHO" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="Viy-jQ-48B"/>
                             <constraint firstItem="UqA-BJ-fYt" firstAttribute="leading" secondItem="m2S-Jp-Qdl" secondAttribute="leading" id="Ws9-c7-MgZ"/>
+                            <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="cxa-xS-D5v"/>
+                            <constraint firstItem="kNO-B7-xHO" firstAttribute="leading" secondItem="Jov-E0-kDI" secondAttribute="trailing" constant="4" id="kOr-Nn-X8D"/>
                             <constraint firstAttribute="bottom" secondItem="UqA-BJ-fYt" secondAttribute="bottom" id="kkO-ce-xW2"/>
                             <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerX" secondItem="m2S-Jp-Qdl" secondAttribute="centerX" id="vlt-rE-Y17"/>
+                            <constraint firstItem="UqA-BJ-fYt" firstAttribute="centerY" secondItem="m2S-Jp-Qdl" secondAttribute="centerY" id="wbj-pk-2AJ"/>
+                            <constraint firstAttribute="trailing" secondItem="kNO-B7-xHO" secondAttribute="trailing" constant="43" id="xhR-Dl-PXK"/>
                         </constraints>
                     </view>
                     <connections>
                         <outlet property="clockView" destination="UqA-BJ-fYt" id="Myn-f0-iv3"/>
+                        <outlet property="dayNo" destination="Jov-E0-kDI" id="fqp-Q0-gaR"/>
+                        <outlet property="monthNo" destination="kNO-B7-xHO" id="NfL-0R-MMt"/>
                     </connections>
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>

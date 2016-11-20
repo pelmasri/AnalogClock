@@ -19,17 +19,23 @@ class Time: ViewController {
     var handColor: CGColor = NSColor.clear.cgColor
     var clockFaceColor = NSColor.black.cgColor
     
-    func time(view: NSView, hand: String, interval: Double) {
+    func time(view: NSView, mDay: NSTextField, mMonth: NSTextField , hand: String, interval: Double) {
         
         var hour = Double()
         var minutes = Double()
         var seconds = Double()
+        var day = Double()
+        var month = Double()
         
         _ = Timer.scheduledTimer(withTimeInterval: interval, repeats: true) { timer in
             
                 seconds = Double(curDate().2)
                 hour = Double(curDate().0)
                 minutes = Double(curDate().1)
+                day = Double(curDate().3)
+                month = Double(curDate().4)
+                print(day)
+                print(month)
             
                 switch hand {
                     case "hour":
@@ -49,6 +55,13 @@ class Time: ViewController {
                         self.handWidth = 1.0
                         self.handColor = NSColor.red.cgColor
                         self.angle = (seconds / 60) * 2 * M_PI
+                    
+                    case "day":
+                        mDay.stringValue = String(Int(day))
+                    
+                    case "month":
+                        let mon = self.convertMonth(month: month)
+                        mMonth.stringValue = mon
                 
                     default:
                         print("Error")
@@ -81,6 +94,41 @@ class Time: ViewController {
         return angle
     
     }
+    
+    func convertMonth (month: Double) -> String {
+        
+        switch month {
+        
+        case 1:
+            return "Jan"
+        case 2:
+            return "Feb"
+        case 3:
+            return "Mar"
+        case 4:
+            return "Apr"
+        case 5:
+            return "May"
+        case 6:
+            return "Jun"
+        case 7:
+            return "Jul"
+        case 8:
+            return "Aug"
+        case 9:
+            return "Sep"
+        case 10:
+            return "Oct"
+        case 11:
+            return "Nov"
+        case 12:
+            return "Dec"
+        
+        default:
+            print("Error")
+            return "0"
+    }
+        return "0"
 }
 
-
+}
