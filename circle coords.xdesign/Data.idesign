@@ -1,0 +1,183 @@
+<design designID='0' version='0' createdDate='(null)' modifiedDate='20161029145238' appName='XDesign' appVersion='1.1.1' dpi='132.000000' boardWidth='1091.338623' boardHeight='1543.464600' isLocked='0' name='(null)' boardSizeID='4' boardSizeLandscape='1' boardUnitID='0' boardScale='1.000000' currentLayerID='1' showBGLayer='0' bgLayerHiRes='0'>
+	<groups>
+	</groups>
+	<layers>
+		<layer layerID='1' zOrder='0' hidden='0' isLocked='0' opacity='1.000000' name='Layer 1'/>
+	</layers>
+	<shapes>
+		<shape shapeID='12' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='390.000000' locY='300.000031' shapeType='3' isPath='0' isClosed='0' zOrder='10' lineWidth='1.250000' width='277.848877' height='277.848877' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='1' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='-0.017453' flipH='0' flipV='0'>
+			<spoint index='2' x='208.924438' y='258.924438' rx='0.000000' ry='0.000000' pointStyle='0' pointType='3'>
+			</spoint>
+			<spoint index='1' x='138.924438' y='138.924438' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='1' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='390.000000' locY='300.000000' shapeType='3' isPath='0' isClosed='0' zOrder='21' lineWidth='1.250000' width='399.999725' height='399.999725' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='1' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='2' x='295.770233' y='375.578857' rx='0.000000' ry='0.000000' pointStyle='0' pointType='3'>
+			</spoint>
+			<spoint index='1' x='199.999863' y='199.999863' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='2' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='390.000000' locY='200.000000' shapeType='5' isPath='0' isClosed='0' zOrder='20' lineWidth='1.250000' width='0.000000' height='200.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='1' x='0.000000' y='200.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='21' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='640.000000' locY='135.000000' shapeType='12' isPath='0' isClosed='0' zOrder='1' lineWidth='1.250000' width='180.000000' height='30.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='x = 71&#10;y = 100 - (71/tan(0.375PI)) = 71' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='3' x='180.000000' y='30.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='180.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='30.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='20' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='1' startMarker='0' endMarker='0' locX='470.000000' locY='105.000000' shapeType='5' isPath='0' isClosed='0' zOrder='2' lineWidth='1.250000' width='60.000000' height='70.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='1' x='0.000000' y='70.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='60.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='8' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='420.000000' locY='250.000000' shapeType='8' isPath='0' isClosed='0' zOrder='14' lineWidth='1.250000' width='60.000004' height='100.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='1' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='3' x='60.000004' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+			<spoint index='1' x='0.000004' y='100.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='4'>
+			</spoint>
+			<spoint index='2' x='0.000004' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='10' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='390.000000' locY='230.000000' shapeType='8' isPath='0' isClosed='0' zOrder='12' lineWidth='1.250000' width='0.000006' height='140.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='1' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='3' x='0.000006' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+			<spoint index='2' x='0.000006' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='1' x='0.000006' y='140.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='4'>
+			</spoint>
+		</shape>
+		<shape shapeID='17' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='499.845886' locY='172.058182' shapeType='12' isPath='0' isClosed='0' zOrder='5' lineWidth='1.250000' width='40.000000' height='20.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='100' textAlignment='0' rotationAngle='-0.942478' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='2' x='40.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='3' x='40.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='3' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='450.000000' locY='220.000000' shapeType='5' isPath='0' isClosed='0' zOrder='19' lineWidth='1.250000' width='120.000000' height='160.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='1' x='0.000000' y='160.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='120.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='9' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='425.000000' locY='230.000000' shapeType='12' isPath='0' isClosed='0' zOrder='13' lineWidth='1.250000' width='50.000000' height='20.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='0.25PI' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='2' x='50.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='3' x='50.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='11' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='390.000000' locY='230.000000' shapeType='8' isPath='0' isClosed='0' zOrder='11' lineWidth='1.250000' width='0.000009' height='140.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='1' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='1' x='0.000006' y='140.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='4'>
+			</spoint>
+			<spoint index='3' x='0.000009' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+			<spoint index='2' x='0.000009' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='13' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='405.000000' locY='430.000000' shapeType='12' isPath='0' isClosed='0' zOrder='9' lineWidth='1.250000' width='50.000000' height='20.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='2PI' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='3' x='50.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='2' x='50.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='16' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='380.000000' locY='180.000000' shapeType='12' isPath='0' isClosed='0' zOrder='6' lineWidth='1.250000' width='40.000000' height='20.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='100' textAlignment='0' rotationAngle='-1.553343' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='3' x='40.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='40.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='18' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='450.000000' locY='140.000000' shapeType='5' isPath='0' isClosed='0' zOrder='4' lineWidth='1.250000' width='120.000000' height='0.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='1' x='120.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='4' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='450.000000' locY='120.000000' shapeType='5' isPath='0' isClosed='0' zOrder='18' lineWidth='1.250000' width='120.000000' height='40.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='120.000000' y='40.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='14' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='525.000000' locY='120.000000' shapeType='5' isPath='0' isClosed='0' zOrder='8' lineWidth='1.250000' width='30.000000' height='40.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='2' x='30.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='40.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='22' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='1' startMarker='0' endMarker='0' locX='535.000000' locY='132.055267' shapeType='5' isPath='0' isClosed='0' zOrder='0' lineWidth='1.250000' width='21.109625' height='21.708990' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.663225' flipH='0' flipV='0'>
+			<spoint index='2' x='21.109625' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='21.708990' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='6' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='400.000000' locY='60.000000' shapeType='12' isPath='0' isClosed='0' zOrder='16' lineWidth='1.250000' width='60.000000' height='20.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='0,100&#10;' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='3' x='60.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='60.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='15' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='465.000000' locY='100.000000' shapeType='5' isPath='0' isClosed='0' zOrder='7' lineWidth='1.250000' width='150.000000' height='0.000000' fillColorRed='-1.000000' fillColorGreen='-1.000000' fillColorBlue='-1.000000' fillColorAlpha='0.000000' lineColorRed='0.000000' lineColorGreen='0.000000' lineColorBlue='0.000000' lineColorAlpha='1.000000' isAspectLocked='0' isEditPoints='1' fontName='Helvetica' fontSize='12.000000' text='' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0'>
+			<spoint index='2' x='150.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+		</shape>
+		<shape shapeID='7' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='525.000000' locY='125.000000' shapeType='12' isPath='0' isClosed='0' zOrder='15' lineWidth='1.250000' width='30.000000' height='30.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='x,y' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='3' x='30.000000' y='30.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='30.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='30.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='19' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='530.000000' locY='60.000000' shapeType='12' isPath='0' isClosed='0' zOrder='3' lineWidth='1.250000' width='120.000000' height='20.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='Sin(0.25PI) * 100 = 71&#10;' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='3' x='120.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='2' x='120.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='20.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+		<shape shapeID='5' groupID='0' layerID='1' lineJoin='0' lineCap='0' lineDash='0' startMarker='1' endMarker='2' locX='390.000000' locY='315.000000' shapeType='12' isPath='0' isClosed='0' zOrder='17' lineWidth='1.250000' width='20.000000' height='30.000000' fillColorRed='0.000000' fillColorGreen='0.000000' fillColorBlue='0.000000' fillColorAlpha='1.000000' lineColorRed='-1.000000' lineColorGreen='-1.000000' lineColorBlue='-1.000000' lineColorAlpha='0.000000' isAspectLocked='0' isEditPoints='0' fontName='Helvetica' fontSize='12.000000' text='0,0' textAlignment='0' rotationAngle='0.000000' flipH='0' flipV='0' transform_a='1.000000' transform_b='0.000000' transform_c='0.000000' transform_d='1.000000' transform_tx='0.000000' transform_ty='0.000000'>
+			<spoint index='3' x='20.000000' y='30.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='2' x='20.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='0'>
+			</spoint>
+			<spoint index='1' x='0.000000' y='0.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='1'>
+			</spoint>
+			<spoint index='4' x='0.000000' y='30.000000' rx='0.000000' ry='0.000000' pointStyle='0' pointType='2'>
+			</spoint>
+		</shape>
+	</shapes>
+</design>
