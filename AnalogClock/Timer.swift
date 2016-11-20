@@ -12,7 +12,6 @@ import Cocoa
 class Time: ViewController {
     
     var i = 0
-    var interval = 0.25
     var timer = Timer()
     var border: CGFloat = 0.0
     var handWidth: CGFloat = 0.0
@@ -54,15 +53,15 @@ class Time: ViewController {
                     default:
                         print("Error")
             }
+            
+            if (self.angle == M_PI) {ClockBuild(clockView: view, border: 40, color: clockFace)}
 
-            
                 clockController(clockView: view, hand: hand, border: self.border, color: NSColor.black.cgColor, angle: (self.angle - ((M_PI * 2) / 60)), lineWidth: self.handWidth)
-            
             
                 clockController(clockView: view, hand: hand, border: self.border, color: self.handColor, angle: self.angle, lineWidth: self.handWidth)
             
             
-                ClockBuild(clockView: view, border: 390, color: NSColor.white.cgColor)
+                ClockBuild(clockView: view, border: 390, color: clockCentre)
 
 
             }
@@ -79,7 +78,6 @@ class Time: ViewController {
         } else {
             angle = ((hour - 12) / 12) * 2 * M_PI
         }
-        print(angle)
         return angle
     
     }

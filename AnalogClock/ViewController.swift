@@ -21,20 +21,22 @@ class ViewController: NSViewController {
         
         clockView.layer?.backgroundColor = clockBackground //Adds background to clockView
         
-        ClockBuild(clockView: clockView, border: 40, color: clockFace)
-        ClockBuild(clockView: clockView, border: 390, color: clockCentre)
+        ClockBuild(clockView: clockView, border: 40, color: clockFace) // Build black clockface once
         
         let myHour = Time()
         let myMins = Time()
         let mySecs = Time()
         
-        mySecs.time(view: clockView, hand: "seconds", interval: 1)
-        myMins.time(view: clockView, hand: "minutes", interval: 1)
         myHour.time(view: clockView, hand: "hour", interval: 1)
+        myMins.time(view: clockView, hand: "minutes", interval: 1)
+        mySecs.time(view: clockView, hand: "seconds", interval: 1)
 
     }
     
   
+    override func viewDidAppear() {
+        ClockBuild(clockView: clockView, border: 40, color: clockFace)
+    }
 
     override var representedObject: Any? {
         didSet {
